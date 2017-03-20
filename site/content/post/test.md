@@ -9,6 +9,6 @@ Well, what can I say?
 
 \* Something
 
-\* Something else** ?**
+\* Something else\*\* ?\*\*
 
-*I can italicise *
+\*I can italicise \*
